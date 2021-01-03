@@ -2,4 +2,4 @@
 
 ## sunday
 
-its amark down file sunday
+its a markdown file sunday
